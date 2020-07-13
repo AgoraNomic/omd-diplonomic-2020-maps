@@ -1585,7 +1585,7 @@
         </text>
     </g>
 
-    <g id="BriefLabelLayer" class="labeltext24" visibility="hidden">
+    <g id="BriefLabelLayer" class="labeltext24" visibility="visible">
         <text x="649.4" y="924.2">
             swi
         </text>
