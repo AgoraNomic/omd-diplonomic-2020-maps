@@ -1,0 +1,6 @@
+* [1901-0spring-1move.svg](1901-0spring-1move.svg)
+* [1901-1fall-0pre.svg](1901-1fall-0pre.svg)
+* [1901-1fall-1move.svg](1901-1fall-1move.svg)
+* [1901-1fall-2build.svg](1901-1fall-2build.svg)
+* [1902-0spring-0pre.svg](1902-0spring-0pre.svg)
+* [diplonomic.jdip](diplonomic.jdip)
