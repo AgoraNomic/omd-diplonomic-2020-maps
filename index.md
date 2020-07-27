@@ -22,4 +22,7 @@
 * [1904-1fall-2retreat.svg](1904-1fall-2retreat.svg)
 * [1904-1fall-3build.svg](1904-1fall-3build.svg)
 * [1905-0spring-0pre.svg](1905-0spring-0pre.svg)
+* [1905-0spring-1move.svg](1905-0spring-1move.svg)
+* [1905-0spring-2retreat.svg](1905-0spring-2retreat.svg)
+* [1905-1fall-0pre.svg](1905-1fall-0pre.svg)
 * [diplonomic.jdip](diplonomic.jdip)
